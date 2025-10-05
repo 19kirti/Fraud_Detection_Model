@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Fraud Detection Model
+# 🕵️‍♂️ RiskRadar: Fraud Detection Model
 
 A machine learning project for detecting fraudulent transactions using multiple classification algorithms — **Random Forest**, **XGBoost**, and **Logistic Regression**.  
 The goal is to identify fraudulent activity with high accuracy and minimal false positives.
