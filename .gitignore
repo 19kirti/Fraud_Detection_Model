@@ -1,0 +1,77 @@
+# Virtual environment
+venv/
+.env/
+.env.bak/
+.venv/
+
+# # Jupyter Notebook checkpoints
+# .ipynb_checkpoints/
+
+# # Python cache
+# __pycache__/
+# *.pyc
+# *.pyo
+# *.pyd
+# *.pdb
+# *.pkl
+# *.pickle
+
+# # Build / distribution files
+# build/
+# dist/
+# *.egg-info/
+# *.egg
+# .eggs/
+
+# # Logs and debugging
+# *.log
+# logs/
+# debug.log
+
+# # Data and model artifacts (optional)
+# # Comment out if you want to version control them
+# data/
+# datasets/
+# models/
+# checkpoints/
+# *.h5
+# *.hdf5
+# *.ckpt
+# *.pth
+# *.pt
+# *.joblib
+
+# # Temporary files
+# *.tmp
+# *.temp
+# *.bak
+# *.swp
+# *.swo
+# .DS_Store
+# Thumbs.db
+
+# # Jupyter runtime files
+# .jupyter/
+# .profile/
+
+# # IDE settings
+# .vscode/
+# .idea/
+# .spyderproject
+# .spyproject
+
+# # Notebook output cache (optional)
+# **/.ipynb_checkpoints/
+# .ipynb_checkpoints/
+
+# # Environment / dependency files backups
+# *.env
+# *.yaml~
+# *.yml~
+# requirements.txt~
+# environment.yml~
+
+# # TensorBoard logs
+# runs/
+# tb_logs/
+
